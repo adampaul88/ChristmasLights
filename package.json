@@ -1,0 +1,12 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "dependencies": {
+    "exec": "^0.2.1",
+    "express": "^4.14.0",
+    "node-static": "^0.7.9",
+    "pi-blaster.js": "^0.1.1",
+    "randomcolor": "^0.4.4",
+    "socket.io": "^1.6.0"
+  }
+}
